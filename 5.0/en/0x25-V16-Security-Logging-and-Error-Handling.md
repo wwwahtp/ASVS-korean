@@ -76,7 +76,7 @@ ASVS는 보안 이벤트의 로깅을 범위에 포함하는 반면, 경보(aler
 
 ## 참조
 
-더 많은 정보를 위해 아래 참조:
+더 많은 정보를 위해 아래 참조한다:
 
 * [OWASP Web Security Testing Guide: Testing for Error Handling](https://owasp.org/www-project-web-security-testing-guide/stable/4-Web_Application_Security_Testing/08-Testing_for_Error_Handling/README)
 * [OWASP Authentication Cheat Sheet section about error messages](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html#authentication-and-error-messages)
